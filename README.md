@@ -1,4 +1,3 @@
 # Win-cleaner
 
-
-    ghfd
+    WSReset.exe
